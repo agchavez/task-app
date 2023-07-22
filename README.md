@@ -3,6 +3,11 @@
 Este es un proyecto de ejemplo para el uso de React con TypeScript. El proyecto consiste en una aplicación de tareas, donde se pueden crear, editar y eliminar tareas.
 
 ## Instalación
+Yarn globalmente
+```bash
+npm install -g yarn
+```
+
 Para instalar el proyecto, se debe clonar el repositorio y ejecutar el comando
 ```bash
 yarn install
